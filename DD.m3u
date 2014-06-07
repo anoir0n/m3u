@@ -1,0 +1,12 @@
+#EXTINF:-1,Noname_1
+http://111.118.21.76:1935/ptv/phd501/playlist.m3u8
+#EXTINF:-1,Noname_2
+http://111.118.21.75/ptv2/phd64/playlist.m3u8
+#EXTINF:-1,Noname_3
+http://111.118.21.75/ptv2/phd63/playlist.m3u8
+#EXTINF:-1,Noname_4
+http://111.118.21.75:1935/ptv2/phd766/playlist.m3u8
+#EXTINF:-1,Noname_5
+http://111.118.21.77:1935/ptv3/phd497/playlist.m3u8
+#EXTINF:-1,Noname_6
+http://111.118.21.77:1935/ptv3/phd499/playlist.m3u8
